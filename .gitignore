@@ -1,0 +1,9 @@
+data
+backupproj
+*.exe
+*.out
+*.o
+*.tar
+*.zip
+*.gz
+.vscode
